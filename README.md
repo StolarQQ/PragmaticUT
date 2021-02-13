@@ -25,14 +25,13 @@ Unit testing knowledge pill.
 
 10. BDD
 
--- .NET stuff
+## .NET stuff
 
 11. xUnit vs nUnit, Moq, Fluent Assertions, more .NET stuff
 
 12. Fake vs Mock vs Stab vs Dummy
 
-
-- Resources 
+### Resources 
 
 - [Bettersoftwaredesign-Podcast](https://bettersoftwaredesign.pl/)
 
@@ -46,6 +45,6 @@ Unit testing knowledge pill.
 
 - [xUnit-Pattern - Code Smells](http://xunitpatterns.com/Test%20Smells.html)
 
-- Blogs
+### Blogs
 
 - [Vladimir Khorikov](https://enterprisecraftsmanship.com/)

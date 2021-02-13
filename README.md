@@ -3,12 +3,16 @@ Unit testing knowledge pill.
 
 1. What is unit testing ?
 - 
+
 2. Why we are must write tests ?
 - 
+
 3. How to write maintinable tests ?
  - Testing components vs unit
+ 
 4. How to write testable code
 - 
+
 5. Best practise UT.
 
 6. Typical mistakes. 
@@ -21,7 +25,8 @@ Unit testing knowledge pill.
 
 10. BDD
 
--- .NET
+-- .NET stuff
+
 11. xUnit vs nUnit, Moq, Fluent Assertions, more .NET stuff
 
 12. Fake vs Mock vs Stab vs Dummy

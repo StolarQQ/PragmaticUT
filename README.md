@@ -28,10 +28,15 @@ Unit testing knowledge pill.
 
 
 - Resources 
+
 [Bettersoftwaredesign-Podcast](https://bettersoftwaredesign.pl/)
+
 [Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing)
+
 [Growing Object-Oriented Software](http://www.growing-object-oriented-software.com/)
+
 [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+
 [xUnit-Pattern - Code Smells](http://xunitpatterns.com/Test%20Smells.html)
 
 - Blogs

@@ -42,6 +42,8 @@ Unit testing knowledge pill.
 
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
+- [UT Pill](https://devstyle.pl/2020/06/25/mega-pigula-wiedzy-o-testach-jednostkowych/)
+
 - [xUnit-Pattern - Code Smells](http://xunitpatterns.com/Test%20Smells.html)
 
 - Blogs

@@ -43,7 +43,7 @@ Unit testing knowledge pill.
 
 - [UT Pill](https://devstyle.pl/2020/06/25/mega-pigula-wiedzy-o-testach-jednostkowych/)
 
-- [https://martinfowler.com/articles/practical-test-pyramid.html](http://xunitpatterns.com/Test%20Smells.html)
+- [Test-Pyramid-Fowler](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 - [xUnit-Pattern - Code Smells](http://xunitpatterns.com/Test%20Smells.html)
 

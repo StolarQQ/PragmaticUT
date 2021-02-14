@@ -2,7 +2,7 @@
 Unit testing knowledge pill.
 
 1. What is unit testing ?
-- 
+- Code that runs other code under controlled environment, in order to verify that the SUT(System under test, codebase) works as intended (In the developer's assumptions). 
 
 2. Why we are must write tests ?
 - 
